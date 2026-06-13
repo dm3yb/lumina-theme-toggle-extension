@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.1.0](https://github.com/dm3yb/vscode-theme-toggle/compare/v1.0.0...v1.1.0) (2026-06-13)
+
+
+### Features
+
+* add esbuild configuration and VSCode setup for extension development ([541963e](https://github.com/dm3yb/vscode-theme-toggle/commit/541963ecc3fead617d3c08498aeb99192b21ed86))
+* add new media assets including icon images and theme toggle font ([f3fc60e](https://github.com/dm3yb/vscode-theme-toggle/commit/f3fc60e50cdbfd624b5587d3f35921ca763ddccd))
+* add Vitest configuration and initial tests for schedule functionality ([1378104](https://github.com/dm3yb/vscode-theme-toggle/commit/1378104e0b3d2e506e2f6b6a5ef2898093bf5024))
+* implement core functionality for theme toggling with command palette integration ([7176d8b](https://github.com/dm3yb/vscode-theme-toggle/commit/7176d8ba09925b4378f6da84cf29126f74475f41))
+
 ## 1.0.0 — 2026-06-14
 
 Initial release.
